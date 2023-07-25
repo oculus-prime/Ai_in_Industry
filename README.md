@@ -5,7 +5,7 @@ The project has been structured in this way:
   - Statistical Analysis
   - Imputing Missing Values
 * Classification
-  - model used: SVM, XGBoost, NN, Probabilistic NN.
+  - model used: SVM, XGBoost, NN, Probabilistic NN. <br/>
 For more details [Report](https://github.com/oculus-prime/Ai_in_Industry/blob/master/Report_Ai_in_Industry.pdf)
 
 
