@@ -17,6 +17,7 @@ The technologies and libraries used in this project are: <br/>
 - Docker
 
 ## How to use it
+Check if you have Docker and Docker compose installed.
 Then the first things to do are cloning repo: <br/>
 ```
 git clone https://github.com/oculus-prime/Ai_in_Industry.git
