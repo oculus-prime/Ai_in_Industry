@@ -1,4 +1,4 @@
-# Supply chain Dapp
+# Ai in Industry project
 This repository contains the implementation of a Classification Task, in particular the job exit state prediction in HPC environment.
 The project has been structured in this way:
 * Preprocessing
