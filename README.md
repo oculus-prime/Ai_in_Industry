@@ -5,7 +5,8 @@ The project has been structured in this way:
   - Statistical Analysis
   - Imputing Missing Values
 * Classification
-  - model used: SVM, XGBoost, NN, Probabilistic NN. <br/>
+  - model used: SVM, XGBoost, NN, Probabilistic NN.
+
 For more details [Report](https://github.com/oculus-prime/Ai_in_Industry/blob/master/Report_Ai_in_Industry.pdf)
 
 
@@ -25,10 +26,11 @@ Once cloned, let's run docker compose up:<br/>
 ```
 docker compose up
 ```
-The process will end with two URLs like these ones
+The process will end with an URLs like this one
 ```
+http://127.0.0.1:8888/tree?token=b6aae43933b766a8910a7da89b322c0108a71853095534ba
 
 ```
-Copying one of the two addresses in a file browser will provide access to the Jupyter server running container.
+Copying it in a file browser will provide access to the Jupyter server running container.
 Thus a jupyter notebook server will be launched, and it will be run on port 8888.
 
