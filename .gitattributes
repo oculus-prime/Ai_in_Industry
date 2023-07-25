@@ -1,3 +1,4 @@
 data filter=lfs diff=lfs merge=lfs -text
+data/job_table.parquet filter=lfs diff=lfs merge=lfs -text
 <files[[:space:]]to[[:space:]]be[[:space:]]tracked> filter=lfs diff=lfs merge=lfs -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
